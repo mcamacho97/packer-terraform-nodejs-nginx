@@ -33,7 +33,7 @@ Posteriormente, Terraform consume la AMI generada por Packer para desplegar auto
                          |
                          v
                 +----------------+
-                |  AMI Personalizada |
+                |AMI Personalizada|
                 +--------+-------+
                          |
                          v
