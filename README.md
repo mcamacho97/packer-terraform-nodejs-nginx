@@ -238,4 +238,3 @@ Durante el desarrollo del proyecto se logró:
 Maestría en Ingeniería DevOps
 
 Universidad Internacional de La Rioja (UNIR)
-# packer-terraform-nodejs-nginx
