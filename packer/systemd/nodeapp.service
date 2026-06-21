@@ -1,0 +1,14 @@
+[Unit]
+Description=NodeJS Demo Application
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/opt/nodeapp
+ExecStart=/usr/bin/node /opt/nodeapp/hello.js
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
